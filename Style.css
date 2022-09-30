@@ -1,9 +1,7 @@
-div {
-    color:rebeccapurple ;
-    width: 200px;
-    height: 100vw;
-    border: 1px solid black;
-    font-size: 12px;
-    font-weight: 700;
-    font-family: "roboto" sans-serif;
+.nav__link{
+    color: black;
+}
+.nav__link--active{
+    color: purple;
+    font-weight: bold;
 }
